@@ -4,6 +4,9 @@ Pipelining: (IF, ID, Exe, Mem, WB)
 
 - pipelining increases 'instruction throughput'.
 
+  <img src="repository image files/pipelining code visualisation.gif" alt="Pipelining code visualisation" width="300" height="200">
+
+
 Parallelism:
 
 -simultaneous execution of multiple tasks ---> performance gain.
