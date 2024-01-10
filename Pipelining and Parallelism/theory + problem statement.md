@@ -4,7 +4,7 @@ Pipelining: (IF, ID, Exe, Mem, WB)
 
 - pipelining increases 'instruction throughput'.
 
-  <img src="repository image files/pipelining code visualisation.gif" alt="Pipelining code visualisation" width="300" height="200">
+<img src= "repository image files/pipelining code visualisation.gif" width="300" height="200">
 
 
 Parallelism:
